@@ -29,7 +29,7 @@ This configuration provides an excellent trade-off between **performance** and *
 
 ## 📈 Results
 
-* **Public leaderboard rank:** 🏅 **258**
+* **Public leaderboard rank:** 🏅 **258/2276**
 * The model achieves a strong AUC score while remaining computationally efficient.
 
 ---
@@ -75,7 +75,7 @@ Cette approche permet d’obtenir un excellent compromis entre **performance**, 
 
 ## 📈 Résultats
 
-* **Classement sur le leaderboard public :** 🏅 **258ᵉ place**
+* **Classement sur le leaderboard public :** 🏅 **258ᵉ place/2276**
 * Modèle performant et stable sur les données de test
 
 ---
